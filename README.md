@@ -27,6 +27,7 @@ N/A
 
 ## Questions
 If you have any questions, please feel free to reach out to me at liam.rayback@gmail.com or on my GitHub: [KatanaFinKoi]
+A walkthrough video on how to use this code can be found here: https://demoair.wondershare.com/video/share?id=d6a8d070-227b-425a-81c1-cf65e9c81cf2
 
 
 

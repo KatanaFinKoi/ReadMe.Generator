@@ -1,5 +1,5 @@
 
-# ReadMe Generator
+# test
 
 ## Table of Contents
 - [Description](#description)
@@ -11,22 +11,24 @@
 - [License](#license)
 
 ## Description
-This code will ask questions to the user and then compile the answers into a professional Readme.md file
+this is a test
 
 ## Installation
-must install dependencies. "Inquirer", "Markdown", and "fs"
+n/a
 
 ## Usage
-may be used to create a professional Readme
+n/a
 
 ## Contribution Guidelines
-N/A
+n/a
 
 ## Test Instructions
-N/A
+n/a
 
 ## Questions
-If you have any questions, please feel free to reach out to me at liam.rayback@gmail.com or on my GitHub: [KatanaFinKoi]
+If you have any questions, please feel free to reach out to me at example@email.com or on my GitHub: [example@github.com]
 
 
-
+## License
+[GPL](https://opensource.org/licenses/gpl-license)
+https://img.shields.io/badge/GPL%20-%20yellow
