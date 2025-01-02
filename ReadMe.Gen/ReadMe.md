@@ -1,5 +1,5 @@
 
-# test
+# Test project
 
 ## Table of Contents
 - [Description](#description)
@@ -11,24 +11,24 @@
 - [License](#license)
 
 ## Description
-this is a test
+this is a test.
 
 ## Installation
-n/a
+Clone repository onto your machine.
 
 ## Usage
-n/a
+No usage restrictions.
 
 ## Contribution Guidelines
-n/a
+fork the repository and add your own code!
 
 ## Test Instructions
-n/a
+N/A
 
 ## Questions
-If you have any questions, please feel free to reach out to me at example@email.com or on my GitHub: [example@github.com]
+If you have any questions, please feel free to reach out to me at liam.rayback@gmail.com or on my GitHub: [KatanaFinKoi]
 
 
 ## License
-[GPL](https://opensource.org/licenses/gpl-license)
-https://img.shields.io/badge/GPL%20-%20yellow
+[MIT](https://opensource.org/licenses/MIT)
+https://img.shields.io/badge/MIT%20-%20red
