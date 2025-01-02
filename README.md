@@ -3,6 +3,7 @@
 
 ## Table of Contents
 - [Description](#description)
+- [Preview](#preview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution Guidelines](#contribution-guidelines)
@@ -12,6 +13,9 @@
 
 ## Description
 This code will ask questions to the user and then compile the answers into a professional Readme.md file
+
+## Preview
+![ReadMe.Gen](Images/screenshot.png)
 
 ## Installation
 must install dependencies. "Inquirer", "Markdown", and "fs"
